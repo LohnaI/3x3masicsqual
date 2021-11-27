@@ -16,3 +16,5 @@ for _ in 0 .. 2:
 
 # expression (표현) 어떤 값이 결과로 도출 됨
 # startement (문) 걍 실행만 됨
+
+# 조건문 (if startement) 상황에 따라 달라질 수 있기 때문
